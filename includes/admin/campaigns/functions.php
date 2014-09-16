@@ -1,0 +1,4 @@
+<?php
+/**
+ * Campaign Related Functions
+ */
