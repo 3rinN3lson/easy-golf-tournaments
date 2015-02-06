@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: bryanmonzon
+Contributors: bryanmonzon, erin nelson 2015
 Tags: golf, golf tournaments
 Requires at least: 3.0.1
 Tested up to: 4.0
